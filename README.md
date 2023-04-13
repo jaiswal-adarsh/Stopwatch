@@ -7,8 +7,8 @@ To use this application, simply clone the repository to your local machine:
 
 -- bash
 Copy code
-git clone https://github.com/jaiswal-adarsh/Stopwatch.git
-Then, open the index.html file in your web browser.
+   git clone https://github.com/jaiswal-adarsh/Stopwatch.git
+   Then, open the index.html file in your web browser.
 
 # Usage
 To start the stopwatch, click the "Start" button. The stopwatch will begin counting up from 0. To pause the stopwatch, click the "Stop" button. To reset the stopwatch, click the "Reset" button. The stopwatch will then return to 0.
