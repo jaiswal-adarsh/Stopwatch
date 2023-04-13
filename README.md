@@ -5,7 +5,7 @@ This is a simple stopwatch application built with HTML, CSS, and JavaScript. It 
 # Installation
 To use this application, simply clone the repository to your local machine:
 
-bash
+-- bash
 Copy code
 git clone https://github.com/jaiswal-adarsh/Stopwatch.git
 Then, open the index.html file in your web browser.
