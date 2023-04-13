@@ -17,4 +17,4 @@ To start the stopwatch, click the "Start" button. The stopwatch will begin count
 Contributions to this project are welcome. Feel free to fork the repository and submit pull requests with your changes.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the @LICENSE file for details.
